@@ -1,3 +1,6 @@
+#THIS IS CHANGED
+
+
 #Generate stationary processes as you wish, and obtain the corresponding TRUE Parameters
 #
 #   ERROR type number code for k = 1,2,3, ...
