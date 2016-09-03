@@ -1,6 +1,8 @@
 #THIS IS CHANGED
 #THIS IS THE SECOND CHANGE!
 #THIS IS THE THIRD ONE
+#OH boy, let's check if i can push this to the repo
+
 #Generate stationary processes as you wish, and obtain the corresponding TRUE Parameters
 #
 #   ERROR type number code for k = 1,2,3, ...
